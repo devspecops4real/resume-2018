@@ -218,3 +218,10 @@ h5.job-title-header {
   font-size: 15px;
   color: #00afc6;
 }
+
+h3.cover-letter-title {
+  content: url('../images/skills-24.png');
+  height: 32px;
+  padding-right: 10px;
+  vertical-align: middle;
+}
